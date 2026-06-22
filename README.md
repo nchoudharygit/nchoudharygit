@@ -65,7 +65,6 @@ Containerised application with full monitoring and alerting stack on **EC2**.
 ## 📫 Reach Me
 
 - **Email:** cneha1904@gmail.com
-- **LinkedIn:** [linkedin.com/in/neha-choudhary-75674224](https://www.linkedin.com/in/neha-choudhary-75674224/)
 - **GitHub:** [github.com/nchoudharygit](https://github.com/nchoudharygit)
 - **Location:** Pune, India · Open to remote
 
